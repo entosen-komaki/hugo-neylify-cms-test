@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-  admin_url: "/cms-admin"
+  cms_label_prefix: "cms-admin/"
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
